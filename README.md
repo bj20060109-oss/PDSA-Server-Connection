@@ -2,10 +2,8 @@
 Find Union Algorithm Used On Server Connection Problem
 
 # HW1 – Server Connection
-Release date: 02/27 14:20
-Due date: 03/13 14:20
 
-Problem Description
+###Problem Description
 In this assignment, you are required to implement a system that simulates a server network.
 
 There are N servers, labeled from 0 to N-1.
